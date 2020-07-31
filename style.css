@@ -162,9 +162,6 @@ body {
 .instructions{
   font-size: 1.2rem;
   font-weight: 700;
-
-
-
 }
 .final{
   font-size: 1.3rem;
@@ -176,5 +173,5 @@ body {
   font-size: 1.4rem;
 }
 .dots{
-  width: 1.5%;
+  width: 0.9%;
 }
